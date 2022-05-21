@@ -11,7 +11,7 @@ you're in the market for this.
 
 ## Get in touch 📝
 
-Shoot me an email at `torkel at ngu-tek.no`, or shoot me a DM on
+Shoot me an email at `torkel at ngu-tek.no`, or a DM on
 [Twitter](https://twitter.com/torkelrogstad). If you're into CVs and other
 boring formalisms, you can also find me on
 [LinkedIn](https://www.linkedin.com/in/torkelrogstad/).
