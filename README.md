@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm the co-founder of [NGU Teknologier](https://ngu-tek.no), a company dedicated
-to bitcoin. We're developing [Bare Bitcoin](https://barebitcoin.no) _("Just
-Bitcoin", in Norwegian)_ a soon-to-be launched Bitcoin service for the Norwegian
+I'm the co-founder of [Bare Bitcoin](https://barebitcoin.no) _("Just
+Bitcoin", in Norwegian)_, a company dedicated
+to bitcoin. We're developing a soon-to-be launched Bitcoin service for the Norwegian
 market.
 
 In addition to this, I do software consulting. I'm available for short-to-medium
@@ -11,7 +11,7 @@ you're in the market for this.
 
 ## Get in touch 📝
 
-Shoot me an email at `torkel at ngu-tek.no`, or a DM on
+Shoot me an email at `torkel at barebitcoin.no`, or a DM on
 [Twitter](https://twitter.com/torkelrogstad). If you're into CVs and other
 boring formalisms, you can also find me on
 [LinkedIn](https://www.linkedin.com/in/torkelrogstad/).
