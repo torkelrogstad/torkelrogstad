@@ -3,7 +3,7 @@
 I'm the co-founder of [Bare Bitcoin](https://barebitcoin.no) _("Just
 Bitcoin", in Norwegian)_, a company dedicated
 to bitcoin. We're developing a soon-to-be launched Bitcoin service for the Norwegian
-market.
+market. I'm building Bare Bitcoin together with [Bjørn Olav Jalborg](https://github.com/octobocto). 
 
 In addition to this, I do software consulting. I'm available for short-to-medium
 term engagements in the bitcoin and crypto industries. Feel free to reach out if
@@ -31,7 +31,7 @@ boring formalisms, you can also find me on
   [projects](https://github.com/jamaljsr/polar/pull/295).
 
 - **Fireblocks** 🔥  
-  worked on a hot wallet infrastructure revamp for a crypto exchange, migrating
+  Worked on a hot wallet infrastructure revamp for a crypto exchange, migrating
   them from a self-rolled hot wallet setup to a platform based on the Fireblocks
   MPC custody platform. Allowed them to move faster without having to spend time
   provisioning and managing blockchain infrastructure, while enhancing the
